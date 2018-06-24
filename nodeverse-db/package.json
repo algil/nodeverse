@@ -1,0 +1,22 @@
+{
+  "name": "nodeverse-db",
+  "version": "1.0.0",
+  "description": "A simple IoT platform - DB module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algil/nodeverse.git"
+  },
+  "author": "antonioluisgil@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algil/nodeverse/issues"
+  },
+  "homepage": "https://github.com/algil/nodeverse#readme",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
